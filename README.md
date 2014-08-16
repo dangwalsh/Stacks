@@ -7,6 +7,6 @@ expressed in fragments of Java code which I reinterpreted into working
 C++ code as a test of my own knowledge and an understanding of how the
 two languages map to each other.
 
-The algoeithms themselves are best utilized by setting breakpoints and
+The algorithms themselves are best utilized by setting breakpoints and
 stepping through the instructions to observe how they function.
 
